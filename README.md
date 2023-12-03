@@ -6,6 +6,4 @@ This repository provides an example of an end-to-end approach to sentiment class
 
 > Ding, X., Liu, B. and Yu, P. S. (2008) ‘A Holistic Lexicon-Based Approach to Opinion Mining’. In *Proceedings of the 2008 International Conference on Web Search and Data Mining (WSDM '08)*. [DOI: 10.1145/1341531.1341561](https://dl.acm.org/doi/10.1145/1341531.1341561).
 
-This notebook was created as a part of COMP34711 at the University of Manchester.
-
 To run the notebook with access to a free GPU, click on the 'Open In Colab' badge above.
